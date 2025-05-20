@@ -1,7 +1,4 @@
 # 📥 Kafka Consumers Guide
-
-A comprehensive overview of Kafka Consumers, covering setup, functionality, configuration, and best practices. This guide complements the Kafka Producers Guide and is based on [Pluralsight’s Kafka course](https://app.pluralsight.com/library/courses/getting-started-apache-kafka/table-of-contents).
-
 ---
 
 ## 📘 Key Topics Covered
